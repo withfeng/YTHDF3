@@ -1,0 +1,9 @@
+GSM878100	hMSC-old_elderly
+GSM878101	hMSC-old_elderly
+GSM878102	hMSC-old_elderly
+GSM878103	hMSC-old_elderly
+GSM878104	hMSC-osteopo_elderly
+GSM878105	hMSC-osteopo_elderly
+GSM878106	hMSC-osteopo_elderly
+GSM878107	hMSC-osteopo_elderly
+GSM878108	hMSC-osteopo_elderly
